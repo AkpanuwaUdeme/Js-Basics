@@ -1,5 +1,5 @@
 
-/*Number 9 answer */
+/*Number 8 answer */
 function multiply(num1, num2) {
     return num1 * num2;
   }
@@ -7,7 +7,7 @@ function multiply(num1, num2) {
   console.log(multiply(10, 10));
   
   
-/*Number 10 answer */
+/*Number 9 answer */
 const firstName = 'Udeme';
 const lastName = 'Akpanuwa';
 const stuternTrack = 'Backend Development';
